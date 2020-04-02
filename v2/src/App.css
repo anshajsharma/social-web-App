@@ -1,0 +1,63 @@
+html,
+
+body{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-color: rgb(245,245,245);
+}
+
+.grid-root{
+  background-color: rgb(245,245,245);
+  margin-top: 25px;
+}
+
+.container{
+  margin: 5%;
+  /* margin: 0px; */
+  max-width: 1200px;
+}
+
+.nav-container{
+  margin: auto;
+}
+
+#asdfgh{
+  margin-top: 0px;
+  width: 100%;
+}
+
+a{
+  text-decoration: none;
+}
+
+.scream-card{
+  display: 'flex';
+
+  margin-bottom: 20px;
+}
+
+.scream-profile-image{
+  min-width: 200px;
+}
+.scream-content{
+  padding: 150;
+}
+#postSection{
+    width: 100%;
+    align-items: center;
+}
+
+#qwerty{
+  width: 150px;
+  height: 150px;
+}
+#profilePicBox{
+  width: 150px;
+  height: 150px;
+}
+#profilePic{
+  height: 20%;
+  width: 20%;
+  object-fit: cover;
+}
